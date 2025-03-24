@@ -1,0 +1,2 @@
+﻿  1_Lab01_11.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(870,9): error MSB4030: "네(/sdl)"은(는) "CL" 작업의 "SDLCheck" 매개 변수에 사용할 수 없는 값입니다. "SDLCheck" 매개 변수는 "System.Boolean" 형식입니다.

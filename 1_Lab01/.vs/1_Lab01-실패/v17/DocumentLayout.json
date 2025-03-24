@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3C63C3-87FF-4E2B-A748-15260674DEC2}|1_Lab01.vcxproj|C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F3C63C3-87FF-4E2B-A748-15260674DEC2}|1_Lab01.vcxproj|solutionrelative:1_Lab01_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3C63C3-87FF-4E2B-A748-15260674DEC2}|1_Lab01.vcxproj|C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_21.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F3C63C3-87FF-4E2B-A748-15260674DEC2}|1_Lab01.vcxproj|solutionrelative:1_Lab01_21.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_Lab01_21.c",
+              "DocumentMoniker": "C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_21.c",
+              "RelativeDocumentMoniker": "1_Lab01_21.c",
+              "ToolTip": "C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_21.c",
+              "RelativeToolTip": "1_Lab01_21.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-23T07:20:27.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1_Lab01_11.c",
+              "DocumentMoniker": "C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_11.c",
+              "RelativeDocumentMoniker": "1_Lab01_11.c",
+              "ToolTip": "C:\\Users\\haein\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Forza\\1_Lab01\\1_Lab01_11.c",
+              "RelativeToolTip": "1_Lab01_11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T07:38:02.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
