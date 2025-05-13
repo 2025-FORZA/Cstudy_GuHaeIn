@@ -68,7 +68,6 @@ int main() {
         idx[i] = i;
     }
 
-    // 수동 x좌표 기준 정렬 (병합정렬)
     merge(idx, 0, n, x);
 
     printf("%lld\n", closest(idx, 0, n));
